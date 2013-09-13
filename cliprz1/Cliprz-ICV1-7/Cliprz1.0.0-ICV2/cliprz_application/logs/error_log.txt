@@ -1,0 +1,26 @@
+[01-Dec-2012 15:44:38] PHP Notice:  Undefined variable: index in C:\AppServ\www\Cliprz\cliprz_application\config\router.php on line 30
+[01-Dec-2012 15:44:38] PHP Fatal error:  Cannot access empty property in C:\AppServ\www\Cliprz\cliprz_application\config\router.php on line 30
+[01-Dec-2012 15:44:38] PHP Notice:  Undefined variable: index in C:\AppServ\www\Cliprz\cliprz_application\config\router.php on line 30
+[01-Dec-2012 15:44:38] PHP Fatal error:  Cannot access empty property in C:\AppServ\www\Cliprz\cliprz_application\config\router.php on line 30
+[01-Dec-2012 15:45:05] PHP Notice:  Undefined variable: index in C:\AppServ\www\Cliprz\cliprz_application\config\router.php on line 30
+[01-Dec-2012 15:45:05] PHP Fatal error:  Cannot access empty property in C:\AppServ\www\Cliprz\cliprz_application\config\router.php on line 30
+[01-Dec-2012 15:45:06] PHP Notice:  Undefined variable: index in C:\AppServ\www\Cliprz\cliprz_application\config\router.php on line 30
+[01-Dec-2012 15:45:06] PHP Fatal error:  Cannot access empty property in C:\AppServ\www\Cliprz\cliprz_application\config\router.php on line 30
+[01-Dec-2012 15:45:06] PHP Notice:  Undefined variable: index in C:\AppServ\www\Cliprz\cliprz_application\config\router.php on line 30
+[01-Dec-2012 15:45:06] PHP Fatal error:  Cannot access empty property in C:\AppServ\www\Cliprz\cliprz_application\config\router.php on line 30
+[01-Dec-2012 15:45:06] PHP Notice:  Undefined variable: index in C:\AppServ\www\Cliprz\cliprz_application\config\router.php on line 30
+[01-Dec-2012 15:45:06] PHP Fatal error:  Cannot access empty property in C:\AppServ\www\Cliprz\cliprz_application\config\router.php on line 30
+[01-Dec-2012 15:47:36] PHP Fatal error:  Access to undeclared static property: router::$index in C:\AppServ\www\Cliprz\cliprz_system\router\router.php on line 222
+[01-Dec-2012 15:48:24] PHP Notice:  Undefined variable: index in C:\AppServ\www\Cliprz\cliprz_application\config\router.php on line 30
+[01-Dec-2012 15:48:24] PHP Fatal error:  Cannot access empty property in C:\AppServ\www\Cliprz\cliprz_application\config\router.php on line 30
+[01-Dec-2012 15:57:17] PHP Notice:  Undefined variable: index in C:\AppServ\www\Cliprz\cliprz_application\config\router.php on line 30
+[01-Dec-2012 15:57:17] PHP Fatal error:  Cannot access empty property in C:\AppServ\www\Cliprz\cliprz_application\config\router.php on line 30
+[01-Dec-2012 15:57:22] PHP Fatal error:  Access to undeclared static property: router::$index in C:\AppServ\www\Cliprz\cliprz_system\router\router.php on line 222
+[01-Dec-2012 15:57:22] PHP Fatal error:  Access to undeclared static property: router::$index in C:\AppServ\www\Cliprz\cliprz_system\router\router.php on line 222
+[01-Dec-2012 16:15:00] PHP Fatal error:  Cannot pass parameter 1 by reference in C:\AppServ\www\Cliprz\cliprz_application\config\router.php on line 30
+[01-Dec-2012 16:15:14] PHP Fatal error:  Cannot pass parameter 1 by reference in C:\AppServ\www\Cliprz\cliprz_application\config\router.php on line 30
+[01-Dec-2012 16:15:15] PHP Fatal error:  Cannot pass parameter 1 by reference in C:\AppServ\www\Cliprz\cliprz_application\config\router.php on line 30
+[01-Dec-2012 16:15:15] PHP Fatal error:  Cannot pass parameter 1 by reference in C:\AppServ\www\Cliprz\cliprz_application\config\router.php on line 30
+[01-Dec-2012 16:15:55] PHP Fatal error:  Cannot pass parameter 1 by reference in C:\AppServ\www\Cliprz\cliprz_application\config\router.php on line 30
+[01-Dec-2012 16:15:56] PHP Fatal error:  Cannot pass parameter 1 by reference in C:\AppServ\www\Cliprz\cliprz_application\config\router.php on line 30
+[01-Dec-2012 16:15:56] PHP Fatal error:  Cannot pass parameter 1 by reference in C:\AppServ\www\Cliprz\cliprz_application\config\router.php on line 30

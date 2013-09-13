@@ -1,0 +1,17 @@
+* version 1.0.0 ICV2
+
+ - Add new function cliprz::system(views)->css();
+ - Add new function cliprz::system(views)->javascript();
+ - Add new function cliprz::system(views)->images();
+ - Add new function in cliprz.function.php c_url();
+ - Add new system class session.
+ - Add new values in conifg for ['sessions'] main key.
+ - Must edit $_config['output']['url'] to your website url.
+ - Add new function in cliprz::system(error)->database(), show database error in cliprz_application/errors/database.php
+ - Add new function in cliprz::system(router)->index(), to redirecting to home page.
+
+***************************
+
+* version 1.0.0 ICV
+ 
+ - No logs

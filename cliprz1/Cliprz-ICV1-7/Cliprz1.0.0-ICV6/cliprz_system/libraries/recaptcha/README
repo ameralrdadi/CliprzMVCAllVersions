@@ -1,0 +1,33 @@
+reCAPTCHA README
+================
+
+The reCAPTCHA PHP Lirary helps you use the reCAPTCHA API. Documentation
+for this library can be found at
+
+	http://recaptcha.net/plugins/php
+
+========================================================================
+If you use arabic language or rtl style add this in your css style file.
+========================================================================
+.recaptchatable { text-align:left !important; direction:ltr !important;}
+.recaptchatable .label.recaptcha_input_area_text { text-align:left !important; direction:ltr !important;}
+
+===========================================================================
+If you wan't to translate for arabic add this in your main javascript file.
+===========================================================================
+var RecaptchaOptions = {
+    theme               : 'white',
+    lang                : 'ar',
+    custom_theme_widget : 'recaptcha_widget',
+    custom_translations : {
+        visual_challenge    : "احصل على تحدي مرئي",
+        audio_challenge     : "احصل على تحدي مسموع",
+        refresh_btn         : "احصل على تحدي جديد",
+        instructions_visual : "اكتب الكلمتين:",
+        instructions_audio  : "اكتب ما تسمعه:",
+        help_btn            : "مساعدة",
+        play_again          : "إعادة تشغيل الصوت مرة أخرى",
+        cant_hear_this      : "تحميل الصوت بصيغة MP3",
+        incorrect_try_again : "خطأ. أعد المحاولة."
+    }
+};

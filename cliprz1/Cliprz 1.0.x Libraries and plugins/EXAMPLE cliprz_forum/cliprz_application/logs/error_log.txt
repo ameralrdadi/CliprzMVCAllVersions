@@ -1,0 +1,1 @@
+[17-Jan-2013 14:03:09 UTC] PHP Notice:  C:\xampp\htdocs\cliprz_forum/cliprz_application/views/refresh.page.php file not exists. in C:\xampp\htdocs\cliprz_forum\cliprz_system\views\view.php on line 82
